@@ -1,0 +1,8 @@
+﻿#result  {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background: #fff;
+    border: 1px solid black;
+    display: none;
+}
